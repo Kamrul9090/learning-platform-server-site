@@ -1,79 +1,93 @@
 [
     {
-        "_id": "63580231ccfc9e9ecca08e41",
+        "_id": "0",
         "index": 0,
         "course": "d5951824-b9fb-4d99-9959-f0c99d5b51b8",
         "price": "$60.63",
-        "picture": "http://placehold.it/32x32",
-        "name": "Anderson Ashley",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://cdn.logojoy.com/wp-content/uploads/20220329165412/app-logo-design-ideas-1024x768.jpg",
+        "name": "Sketch from A to Z: for app designer",
         "email": "andersonashley@dogspa.com",
         "phone": "+1 (980) 572-2111",
-        "about": "Quis voluptate dolore dolor eu culpa ullamco qui et eu laboris commodo ut laboris. Culpa veniam est labore ipsum. Ut eu aliquip tempor pariatur est elit id. Amet nulla irure dolore ea cupidatat amet in in duis nisi.\r\n"
+        "about": "Proposal indulged no do sociable he throwing settling.\r\n"
     },
     {
-        "_id": "635802316205b70bd9f2741c",
+        "_id": "1",
         "index": 1,
         "course": "9697d0de-fdb0-41f1-9bfa-788c554d4467",
         "price": "$54.56",
-        "picture": "http://placehold.it/32x32",
-        "name": "Elizabeth Bennett",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://mediablog.cdnpk.net/sites/9/2021/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
+        "name": "Graphic Design Masterclass",
         "email": "elizabethbennett@dogspa.com",
         "phone": "+1 (940) 413-3952",
-        "about": "Reprehenderit do et magna amet occaecat sint id. Sint nisi ullamco tempor Lorem nostrud aute laborum nulla mollit pariatur anim adipisicing dolor aliqua. Velit culpa adipisicing proident dolor excepteur voluptate exercitation culpa qui nisi non. Qui exercitation amet elit officia ex sint in sunt aute nisi. Consequat incididunt reprehenderit ea exercitation cillum fugiat aliquip enim eu aliqua veniam irure. Elit velit est nulla dolore consectetur cupidatat Lorem proident do anim laboris labore pariatur reprehenderit.\r\n"
+        "about": "Rooms oh fully taken by worse do Points afraid but may end Rooms Points afraid but may end Rooms.\r\n"
     },
     {
-        "_id": "6358023130faa8cca55bb5c0",
+        "_id": "2",
         "index": 2,
         "course": "b48d8317-e442-4e28-a210-3c58eadb5d3f",
         "price": "$67.29",
-        "picture": "http://placehold.it/32x32",
-        "name": "Alexandria Herman",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://styles.redditmedia.com/t5_3maow/styles/communityIcon_5mmm5vstxj761.png",
+        "name": "Create a Design System in Figma",
         "email": "alexandriaherman@dogspa.com",
         "phone": "+1 (871) 532-3467",
-        "about": "Eiusmod pariatur adipisicing non sunt occaecat pariatur reprehenderit reprehenderit minim aliqua velit nisi Lorem. Voluptate officia proident pariatur velit nostrud aliqua. Consequat nisi magna enim laboris et exercitation culpa ea velit voluptate sint pariatur nisi nostrud. Excepteur adipisicing nisi eiusmod sint sint Lorem occaecat excepteur dolor adipisicing pariatur deserunt dolore commodo. Cillum incididunt incididunt amet aliquip duis ad eiusmod sint aliquip eiusmod. Aliquip ex mollit dolor minim Lorem est sint. Et eiusmod ad cupidatat reprehenderit qui ad pariatur aliquip.\r\n"
+        "about": "Rooms oh fully taken by worse do. Points afraid but may end afraid.\r\n"
     },
     {
-        "_id": "63580231d3872540277c95be",
+        "_id": "3",
         "index": 3,
         "course": "88dbbd4d-0f75-4a05-9597-93def38be5fb",
         "price": "$76.67",
-        "picture": "http://placehold.it/32x32",
-        "name": "Santana Gaines",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+        "name": "Deep Learning with React-Native",
         "email": "santanagaines@dogspa.com",
         "phone": "+1 (963) 404-2456",
-        "about": "Labore duis eu anim adipisicing. Labore incididunt consectetur fugiat consequat esse ut labore aliquip nulla. Exercitation adipisicing proident enim Lorem laborum minim. Ullamco ut est Lorem elit. Nulla tempor est non duis officia quis ullamco commodo ex nisi. Mollit reprehenderit ea irure deserunt eu.\r\n"
+        "about": "Far advanced settling say finished raillery. Offered chiefly farther.\r\n"
     },
     {
-        "_id": "635802311fe3d030db402d4a",
+        "_id": "4",
         "index": 4,
         "course": "50e9b13a-4640-4378-bf94-799398926c88",
         "price": "$89.12",
-        "picture": "http://placehold.it/32x32",
-        "name": "Woodward Calderon",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://image.shutterstock.com/shutterstock/photos/452204821/display_1500/stock-vector-abstract-html-code-logo-design-452204821.jpg",
+        "name": "Build Responsive Websites with HTML",
         "email": "woodwardcalderon@dogspa.com",
         "phone": "+1 (951) 410-2112",
-        "about": "Aliquip id ipsum cupidatat amet consectetur. Do cupidatat Lorem ea culpa sint proident consequat. Excepteur ex cupidatat duis ea irure veniam adipisicing cillum est velit aliquip. Reprehenderit do non cillum officia amet velit non duis irure reprehenderit enim.\r\n"
+        "about": "Far advanced settling say finished raillery. Offered chiefly farther.\r\n"
     },
     {
-        "_id": "63580231da85887c857abc72",
+        "_id": "5",
         "index": 5,
         "course": "ec85088c-a740-44e1-8459-ce98f6fa1ef1",
         "price": "$66.26",
-        "picture": "http://placehold.it/32x32",
-        "name": "Cornelia Sloan",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://dcassetcdn.com/design_img/3135071/650696/650696_17371557_3135071_7630495d_image.jpg",
+        "name": "Build Websites with CSS",
         "email": "corneliasloan@dogspa.com",
         "phone": "+1 (813) 444-3604",
-        "about": "Ipsum ea exercitation consectetur nulla nostrud irure et id deserunt eu sint ipsum et enim. Sit ea est labore aliquip sunt minim id tempor exercitation. Laborum sunt deserunt dolor esse pariatur esse nostrud dolor. Cillum aliqua deserunt esse officia dolor in ad cupidatat Lorem consequat. Lorem consequat quis amet laboris.\r\n"
+        "about": "Far advanced settling say finished raillery. Offered chiefly farther.\r\n"
     },
     {
-        "_id": "6358023132e1d4a5b048b780",
+        "_id": "6",
         "index": 6,
         "course": "b96904a8-25c2-478a-b09d-5e5cdc403012",
         "price": "$53.66",
-        "picture": "http://placehold.it/32x32",
-        "name": "Wall Boyd",
+        "time": "30 h 20m",
+        "lecture": "90 lectures",
+        "picture": "https://t3.ftcdn.net/jpg/03/27/57/46/360_F_327574684_QE5bGYSTw8WpnAVuruZJMz1ZL3thC2GT.jpg",
+        "name": "JavaScript: Full Understanding",
         "email": "wallboyd@dogspa.com",
         "phone": "+1 (814) 431-3859",
-        "about": "Est duis sint exercitation ipsum sunt mollit duis adipisicing nulla. Aute do do esse excepteur eu. Cupidatat velit occaecat cupidatat sit ea sunt commodo id duis quis consectetur ullamco. Esse do ipsum exercitation aute non nulla nulla officia aliquip qui tempor aute. Laboris mollit tempor et voluptate dolor consectetur sit nisi labore.\r\n"
+        "about": "Far advanced settling say finished raillery. Offered chiefly farther..\r\n"
     }
 ]

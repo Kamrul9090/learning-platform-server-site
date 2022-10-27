@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "categories": "Web Design"
+    },
+    {
+        "id": "2",
+        "categories": "Development"
+    },
+    {
+        "id": "3",
+        "categories": "Graphic Design"
+    },
+    {
+        "id": "4",
+        "categories": "Marketing"
+    },
+    {
+        "id": "5",
+        "categories": "Finance"
+    },
+    {
+        "id": "6",
+        "categories": "others"
+    }
+]
